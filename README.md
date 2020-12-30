@@ -40,12 +40,11 @@ Data can be found at: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 The graph shows the distribution of songs been published from each year. The number of published songs was not stable until around 1950, and in 2018 it reached the historically highest point which is 2,103 number of songs published. 
 
 (Fun Fact: Rock & Roll dominated popular music in the mid 1950s and late 1950s.)
-<a href="https://ibb.co/6ZXg1ZW"><img src="https://i.ibb.co/b3bz23K/Screen-Shot-2020-12-29-at-9-07-44-PM.png" alt="Screen-Shot-2020-12-29-at-9-07-44-PM" border="0"></a>
 
 Here we can see the popularity ranking by artists:
-<a href="https://ibb.co/k3K2xjH"><img src="https://i.ibb.co/Q89vfLb/Screen-Shot-2020-12-29-at-9-24-02-PM.png" alt="Screen-Shot-2020-12-29-at-9-24-02-PM" border="0"></a>
 
-
+Dashboard -1 
+<a href="https://ibb.co/5KqpTcn"><img src="https://i.ibb.co/QDsS9mC/Screen-Shot-2020-12-29-at-9-41-29-PM.png" alt="Screen-Shot-2020-12-29-at-9-41-29-PM" border="0"></a>
 
 
 
