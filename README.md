@@ -37,7 +37,7 @@ Data can be found at: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 ## Dashboard & Summary 
 
-Dashboard -1 
+#### Dashboard -1 
 
 <a href="https://ibb.co/N2Lvd4C"><img src="https://i.ibb.co/r2ZjRW0/Screen-Shot-2020-12-30-at-11-40-46-PM.png" alt="Screen-Shot-2020-12-30-at-11-40-46-PM" border="0"></a>
 
@@ -51,12 +51,14 @@ We can find interesting insights from this dashboard:
 
 
 
-Comparison:
+#### Comparison:
 
 <a href="https://ibb.co/X4tjGJN"><img src="https://i.ibb.co/thDQ1Ck/Screen-Shot-2020-12-30-at-10-29-21-PM.png" alt="Screen-Shot-2020-12-30-at-10-29-21-PM" border="0"></a>
 
+A closer look at the comparison between different features changed overtime, the avgerage "Acoutsticness" dropped significantly compare to others whereas the "Liveness" kept simliar throughout years. "Energy" increased overtime with a relatively stable speed. 
 
-Correlation Matrix with respect to various features:
+
+#### Correlation Matrix with respect to various features:
 
 
 <a href="https://ibb.co/Qc5Ngxz"><img src="https://i.ibb.co/cvmFBsM/Screen-Shot-2020-12-30-at-10-37-31-PM.png" alt="Screen-Shot-2020-12-30-at-10-37-31-PM" border="0"></a>
