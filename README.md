@@ -42,12 +42,14 @@ Here we can see the popularity ranking by artists:
 
 Dashboard -1 
 
-<a href="https://ibb.co/NSrpwtS"><img src="https://i.ibb.co/Src0q5r/Screen-Shot-2020-12-30-at-10-26-11-PM.png" alt="Screen-Shot-2020-12-30-at-10-26-11-PM" border="0"></a>
+<a href="https://ibb.co/h8ZpThb"><img src="https://i.ibb.co/ThbzNp6/Screen-Shot-2020-12-30-at-11-21-39-PM.png" alt="Screen-Shot-2020-12-30-at-11-21-39-PM" border="0"></a>
 
 1. We can find interesting insights from this dashboard. The first graph shows the distribution of songs been published from each year. The number of published songs was not stable until around 1950, and in 2018 it reached the historical highest point which is 2,103 number of songs published. (Fun Fact: Rock & Roll dominated popular music in the mid 1950s and late 1950s.)
 2. Throughout the time, the duration of songs dropped with respect to increase in popularity. People are more likely to listen shorter length of songs. 
 3. The acousticness of songs drastically decrease since 1960, meaning that tracks have become less "Acoustic" but with higher popularity.
 4. The top artist who published the most number of songs is Francisco Canaro.
+
+
 
 Comparison:
 
