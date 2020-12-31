@@ -72,8 +72,9 @@ Overall genres rankings for each feature:
 These rankings will navigate you to genres that you might be interested in with it's unique features. An example would be if I were to find top genres that has highest danceability, then the "Experimental House" may potentially be the type of music that I'm looking for.
 
 
+## Thoughts:
+
+
 
 <a href="https://ibb.co/m0Pcj9H"><img src="https://i.ibb.co/kJPS74h/open-graph-default.png" alt="open-graph-default" border="0"></a>
-
-
 
