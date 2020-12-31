@@ -43,7 +43,7 @@ Data can be found at: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 We can find interesting insights from this dashboard:
 1. The "Number of Songs Published" shows the distribution of songs been published from each year. The number of published songs was not stable until around 1950, and in 2018 it reached the historical highest point which is 2,103 number of songs published. (Fun Fact: Rock & Roll dominated popular music in the mid 1950s and late 1950s.)
-2. The top artist who published the most number of songs is Francisco Canaro and the artists with highest average popular score are "Bad Bunny" and "Jhay Cortez".
+2. The top artist who published the most number of songs is "Francisco Canaro" and the artists with highest average popular score are "Bad Bunny" and "Jhay Cortez".
 3. The hottest song is "Dakiti".
 4. Throughout the time, the duration of songs dropped with respect to increase in popularity. People are more likely to listen shorter length of songs. 
 5. The acousticness of songs drastically decrease since 1960, meaning that tracks have become less "Acoustic" but with higher popularity.
