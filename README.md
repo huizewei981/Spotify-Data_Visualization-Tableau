@@ -37,21 +37,28 @@ Data can be found at: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 ## Summary 
 
-The graph shows the distribution of songs been published from each year. The number of published songs was not stable until around 1950, and in 2018 it reached the historically highest point which is 2,103 number of songs published. 
-
-(Fun Fact: Rock & Roll dominated popular music in the mid 1950s and late 1950s.)
 
 Here we can see the popularity ranking by artists:
 
 Dashboard -1 
 
-
 <a href="https://ibb.co/NSrpwtS"><img src="https://i.ibb.co/Src0q5r/Screen-Shot-2020-12-30-at-10-26-11-PM.png" alt="Screen-Shot-2020-12-30-at-10-26-11-PM" border="0"></a>
 
-
+1. We can find interesting insights from this dashboard. The first graph shows the distribution of songs been published from each year. The number of published songs was not stable until around 1950, and in 2018 it reached the historical highest point which is 2,103 number of songs published. (Fun Fact: Rock & Roll dominated popular music in the mid 1950s and late 1950s.)
+2. Throughout the time, the duration of songs dropped with respect to increase in popularity. People are more likely to listen shorter length of songs. 
+3. The acousticness of songs drastically decrease since 1960, meaning that tracks have become less "Acoustic" but with higher popularity.
+4. The top artist who published the most number of songs is Francisco Canaro.
 
 Comparison:
 
 <a href="https://ibb.co/X4tjGJN"><img src="https://i.ibb.co/thDQ1Ck/Screen-Shot-2020-12-30-at-10-29-21-PM.png" alt="Screen-Shot-2020-12-30-at-10-29-21-PM" border="0"></a>
+
+
+Correlation Matrix with respect to various features:
+
+
+<a href="https://ibb.co/Qc5Ngxz"><img src="https://i.ibb.co/cvmFBsM/Screen-Shot-2020-12-30-at-10-37-31-PM.png" alt="Screen-Shot-2020-12-30-at-10-37-31-PM" border="0"></a>
+
+
 
 
