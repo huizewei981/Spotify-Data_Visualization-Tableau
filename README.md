@@ -37,7 +37,7 @@ Data can be found at: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020
 
 ## Dashboard & Summary 
 
-#### Dashboard -1 
+### Dashboard -1 
 
 <a href="https://ibb.co/N2Lvd4C"><img src="https://i.ibb.co/r2ZjRW0/Screen-Shot-2020-12-30-at-11-40-46-PM.png" alt="Screen-Shot-2020-12-30-at-11-40-46-PM" border="0"></a>
 
@@ -49,20 +49,31 @@ We can find interesting insights from this dashboard:
 5. The acousticness of songs drastically decrease since 1960, meaning that tracks have become less "Acoustic" but with higher popularity.
 
 
-
-
-#### Comparison:
+### Comparison:
 
 <a href="https://ibb.co/X4tjGJN"><img src="https://i.ibb.co/thDQ1Ck/Screen-Shot-2020-12-30-at-10-29-21-PM.png" alt="Screen-Shot-2020-12-30-at-10-29-21-PM" border="0"></a>
 
 A closer look at the comparison between different features changed overtime, the avgerage "Acoutsticness" dropped significantly compare to others whereas the "Liveness" kept simliar throughout years. "Energy" increased overtime with a relatively stable speed. 
 
 
-#### Correlation Matrix with respect to various features:
+### Correlation Matrix with respect to various features:
 
 
 <a href="https://ibb.co/Qc5Ngxz"><img src="https://i.ibb.co/cvmFBsM/Screen-Shot-2020-12-30-at-10-37-31-PM.png" alt="Screen-Shot-2020-12-30-at-10-37-31-PM" border="0"></a>
 
+From the correlation matrix, it appears that "Danceability" and "Valence" may have some positive relationship, as well as "speechiness" and "Danceability".
+
+### Now, let's take a look at Genres.
+### Dashboard -2
+Overall genres rankings for each feature:
+
+<a href="https://ibb.co/N35tsFQ"><img src="https://i.ibb.co/qnK7dDX/Screen-Shot-2020-12-31-at-12-21-44-AM.png" alt="Screen-Shot-2020-12-31-at-12-21-44-AM" border="0"></a>
+
+These rankings will navigate you to genres that you might be interested in with it's unique features. An example would be if I were to find top genres that has highest danceability, then the "Experimental House" may potentially be the type of music that I'm looking for.
+
+
+
+<a href="https://ibb.co/m0Pcj9H"><img src="https://i.ibb.co/kJPS74h/open-graph-default.png" alt="open-graph-default" border="0"></a>
 
 
 
