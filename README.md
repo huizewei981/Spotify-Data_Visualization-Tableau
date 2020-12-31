@@ -45,11 +45,13 @@ Here we can see the popularity ranking by artists:
 
 Dashboard -1 
 
+
 <a href="https://ibb.co/NSrpwtS"><img src="https://i.ibb.co/Src0q5r/Screen-Shot-2020-12-30-at-10-26-11-PM.png" alt="Screen-Shot-2020-12-30-at-10-26-11-PM" border="0"></a>
 
 
 
+Comparison:
 
-
+<a href="https://ibb.co/X4tjGJN"><img src="https://i.ibb.co/thDQ1Ck/Screen-Shot-2020-12-30-at-10-29-21-PM.png" alt="Screen-Shot-2020-12-30-at-10-29-21-PM" border="0"></a>
 
 
